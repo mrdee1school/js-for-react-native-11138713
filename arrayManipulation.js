@@ -35,3 +35,5 @@ const formatArrayStrings = (arrayOfStrings, processedNumbers) => {
 // const processedNumbers = processArray(numbers);
 // const modifiedStrings = formatArrayStrings(strings, processedNumbers);
 // console.log(modifiedStrings);
+
+export default formatArrayStrings;
